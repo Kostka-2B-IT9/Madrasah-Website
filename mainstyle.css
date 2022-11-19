@@ -1,0 +1,75 @@
+body { 
+     background-image: url('bg.png'); 
+     background-repeat: no-repeat; 
+     background-size: cover;
+     background-position: center center;
+ }
+h1 {
+	font-family:Abril Fatface;
+	font-size:50px;
+	color: black;
+	}
+h2{
+    font-family:Alfa Slab One;
+	font-size:25px;
+	color: black;
+	text-align:center;
+	}
+h4{
+    font-family:Abril Fatface;
+	font-size:15px;
+	color: black;
+	text-align: center;
+	}
+	
+h5{
+    font-family:'Bebas Neue';
+	font-size:30px;
+	color: black;
+	text-align: center;
+	margin: 15px;
+	}
+
+p{
+	font-family:'';
+	font-size:28px;
+	color: black;
+	text-align: center;
+	margin: 15px;
+	}
+
+	
+span{
+    font-family:Playfair Display;
+	font-size:20px;
+	color: black;
+	text-align:center;
+	margin: 55px;
+ 
+
+	
+div#issue{
+			background: #E5A186;opacity:0.8;
+			border:1px solid grey;
+			width:600px;
+			margin-left:50px;
+		    border-radius: 25px;
+		    font-family: 'Alfa Slab One', cursive;
+                 }
+div#advocacy{
+      background:#E5A186;opacity:0.8;
+			border:1px solid grey;
+			width:600px;
+			margin-left:50px;
+		    border-radius: 25px;
+             font-family: 'Alfa Slab One', cursive;
+            }
+div#group{
+      background:#E5A186;opacity:0.8;
+			border:1px solid grey;
+			width:600px;
+			margin-left:50px;
+		    border-radius: 25px;
+                 font-family: 'Alfa Slab One', cursive;
+              }
+			  

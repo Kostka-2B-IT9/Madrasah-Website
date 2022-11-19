@@ -1,0 +1,158 @@
+body{
+  margin: 0;
+  }
+ 
+div#title{
+margin-left: 500px;  
+}
+
+div#about{
+margin-left: 300px;  
+}
+div#details{
+  margin-left: 500px;
+}
+
+div#background{
+  width: 1000px;
+  padding:10px;
+  border: 5px;
+  margin-left: 400px;
+  background-color:#B1D8B7;
+}
+
+div#compost{
+  width: 1000px;
+  padding:10px;
+  border: 5px;
+  margin-left: 400px;
+}
+
+div#variables{
+  width: 1000px;
+  padding:10px;
+  border: 5px;
+  margin-left: 400px;
+}
+
+div#setup{
+  width: 1000px;
+  padding:10px;
+  border: 5px;
+  margin-left: 400px;
+}
+
+div#experiment{
+  width: 1000px;
+  padding:10px;
+  border: 5px;
+  margin-left: 400px;
+}
+
+div#documentation{
+  width: 1000px;
+  padding:10px;
+  border: 5px;
+  margin-left: 400px;
+}
+
+div#video{
+  width: 1000px;
+  padding:10px;
+  border: 5px;
+  margin-left: 430px;
+}
+
+div#PUSO{
+  width: 1000px;
+  padding:10px;
+  border: 5px;
+  margin-left: 500px;
+}
+
+div#art{
+  width: 1000px;
+  padding:10px;
+  border: 5px;
+  margin-right: 430px;
+}
+
+
+div#solution{
+  width: 1100px;
+  padding:10px;
+  border: 5px;
+  margin-left: 350px; 
+}
+
+
+div#problem{
+  width: 1000px;
+  padding:10px;
+  border: 5px;
+  margin-left: 400px;
+  background-color:#B1D8B7;
+}
+
+div#group{
+width: 1000px;
+  padding:10px;
+  border: 5px solid gray;
+  margin-left: 300px;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 260px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: #D1E2C4;
+}
+nav ul li {
+	list-style: none;
+}
+nav ul li a {
+	display: block;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 20px;
+	color: #fff;
+	position: relative;
+	padding: 25px 0 25px 38px;
+}
+nav ul li a:before {
+	content: '';
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 0%;
+	height: 100%;
+	background: #31352E;
+	border-radius: 40px 0px 0px 40px;
+	z-index: -1;
+	transition: all 300ms ease-in-out;
+}
+nav ul li a:hover {
+	color: #EBEBE8;
+}
+nav ul li a:hover:before {
+	width: 95%;
+}
+
+.logo {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	overflow: hidden;
+	margin: 25px auto;
+}
+.logo img {
+	width: 100%;
+}
+div#footer{
+   margin-left:500px;
+   }
